@@ -4,5 +4,6 @@ op {
   description: <<END
 The result will have exactly those bits set, that are not set in `x`. The
 computation is performed on the underlying representation of x.
+https://github.com/tensorflow/tensorflow/blob/master/tensorflow/core/api_def/base_api/api_def_Invert.pbtxt
 END
 }
